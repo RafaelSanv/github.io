@@ -6,15 +6,15 @@ This will be my home page
   - [x] 1.1) Create your first commit with this Readme
   - [x] 1.2) Amend the previous commit to check the first and second box.
 - [ ] 2. Linear History 
-  - [ ] 2.1) First Commits: index.html
-  - [ ] 2.1.1) Create a bare index.html (just the basic structure with no content)
-  - [ ] 2.1.2) Add and commit some elements about you (Your name, a short bio)
-  - [ ] 2.1.3) Add and commit some more elements about you (Formation, Experience ... )
-- [ ] 3. Unlinear History 
-  - [ ] 3.1) First Branch: Style
-    - [ ] 3.1.1) Create a branch name style and check it out
-    - [ ] 3.1.2) Create an empty style.css file and commit it
-    - [ ] 3.1.3) Add some style to your page and commit them
+  - [x] 2.1) First Commits: index.html
+  - [x] 2.1.1) Create a bare index.html (just the basic structure with no content)
+  - [x] 2.1.2) Add and commit some elements about you (Your name, a short bio)
+  - [x] 2.1.3) Add and commit some more elements about you (Formation, Experience ... )
+- [x] 3. Unlinear History 
+  - [x] 3.1) First Branch: Style
+    - [x] 3.1.1) Create a branch name style and check it out
+    - [x] 3.1.2) Create an empty style.css file and commit it
+    - [x] 3.1.3) Add some style to your page and commit them
   - [ ] 3.2) First fast-forward Merge
     - [ ] 3.2.1) Go back to the main Branch
     - [ ] 3.2.2) Merge Style into main ( fast-forward )
