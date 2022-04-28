@@ -26,3 +26,4 @@ This will be my home page
     - [x] 3.3.3) checkout the branch main
     - [x] 3.3.4) Merge the change from style
  - [x] 4. Remote Repository
+ - [x] 5. Clone Repository
