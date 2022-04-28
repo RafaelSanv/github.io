@@ -1,11 +1,4 @@
-ul.menu {
-    list-style-type: none;
-    margin: auto;
-    padding: 5px;
-    display: flex;
-    flex-direction: row; /* ou bien column pour vertical */
-    flex-wrap: wrap;
-    justify-content: center; /* ou bien center ou bien flex-end */
-    background-color: #ffffff;
-    border: 2px solid #000000;
-    }
+h1 {
+    font-size: 70px;
+    color: green;
+  }
